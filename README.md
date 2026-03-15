@@ -34,3 +34,7 @@ Website
 ## Live Website
 
 https://techwithnadya.com
+
+## Website Preview
+
+![Website Screenshot](website-preview.png)
