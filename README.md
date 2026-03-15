@@ -31,10 +31,9 @@ Website
 - Web server configuration
 - DNS configuration
 - HTTPS security
-## Live Website
-
-https://techwithnadya.com
 
 ## Website Preview
+
+Live site: https://techwithnadya.com
 
 ![Website Screenshot](website-preview.png)
